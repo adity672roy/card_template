@@ -35,7 +35,7 @@ To run this project locally, you'll need to have Node.js and npm installed. You 
     npm start
     ```
 
-2. Open your browser and go to `http://localhost:3000` to see the component in action.
+2. Open your browser and go to `http://localhost:5173` to see the component in action.
 
 ## Development
 
