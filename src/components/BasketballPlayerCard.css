@@ -50,9 +50,9 @@
   color: white;
 }
 
-/* .player_card:hover {
-  transform: scale(1.05);
-} */
+.player_card:hover {
+  transform: scale(1.01);
+}
 
 .player_image {
   height: 100%;
